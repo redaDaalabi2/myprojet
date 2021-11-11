@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636629317 source:c:\users\youcode\desktop\my project\age2\main.c
+	<stdio.h>
+	<stdlib.h>
+
