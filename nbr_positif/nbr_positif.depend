@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637077473 source:c:\users\youcode\desktop\my project\nbr_positif\main.c
+	<stdio.h>
+	<stdlib.h>
+
